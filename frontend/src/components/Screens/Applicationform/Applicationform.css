@@ -1,0 +1,9 @@
+.Box {
+    margin: auto;
+    width: 60%;
+    height: fit-content;
+    background-color: rgba(201, 243, 225, 0.429);
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 3%;
+}
